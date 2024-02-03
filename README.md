@@ -1,3 +1,5 @@
+# Detailed explanation is written on Project.ppx file
+
 # MIntermediateRepresentation
 
 This project implements a representation of manufacturing processes based on Regionalized Value State Dependence Graph (RVSDG).  
