@@ -1,0 +1,56 @@
+{
+  "type":"omega",
+  "id":0,
+  "data_declaration":[
+    {
+      "id":0,
+      "name":"a",
+      "class_type":"var",
+      "type":"int",
+      "value":0
+    },
+    {
+      "id":1,
+      "name":"one",
+      "class_type":"const",
+      "type":"int",
+      "value":1
+    }
+  ],
+  "nodes":[
+    {
+      "type":"sum",
+      "data_declaration":[],
+      "nodes":[],
+      "input":[
+        {
+          "id":0,
+          "name":"a"
+        },
+        {
+          "id":1
+        }
+      ],
+      "output":[
+        {
+          "id":0
+        }
+      ]
+    },
+    {
+      "type":"mul",
+      "nodes":[],
+      "input":[],
+      "output":[]
+    },
+    {
+      "type":"theta",
+      "data_declaration":[ ],
+      "nodes":[ ],
+      "input":[],
+      "output":[]
+    }
+  ],
+  "input":[],
+  "output":[]
+}
